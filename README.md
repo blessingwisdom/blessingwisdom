@@ -1,3 +1,5 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+👋
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blessingwisdom&theme=shades-of-purple)](https://git.io/streak-stats)
