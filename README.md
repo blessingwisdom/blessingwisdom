@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Flutter, and taking a Software Engineering course on ALX.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a podcast host @Tephection.
+- ⚡ Fun fact: I'm a Pharmacist-in-training.
 <!--
 Here are some ideas to get you started:
 
